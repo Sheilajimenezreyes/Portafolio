@@ -1,0 +1,14 @@
+.section-2 {
+  padding: 30px;
+  line-height: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  background-color: #d9e4ed;
+}
+.section-2 h1 {
+  text-align: center;
+}
+.section-2 h2 {
+  margin-bottom: 10px;
+}

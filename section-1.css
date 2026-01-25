@@ -6,9 +6,11 @@
   align-items: center;
   gap: 12px;
   padding: 30px;
+  background-color: #b5c4d2;
 }
 .section-1 .imagen-principal {
-  border-radius: 200px;
+  border: 3px #6d95ba solid;
+  padding: 10px;
 }
 .contenedor-info div {
   display: flex;
