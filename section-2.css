@@ -8,7 +8,22 @@
 }
 .section-2 h1 {
   text-align: center;
+  font-family: Impact;
+  font-weight: 100;
+  font-size: 35px;
+  color: #354575;
 }
 .section-2 h2 {
   margin-bottom: 10px;
+  font-family: Impact;
+  font-weight: 100;
+  font-size: 20px;
+  color: #354575;
+}
+.section-2,
+p,
+ul {
+  font-family: Cambria;
+  font-size: 16px;
+  list-style: square;
 }
