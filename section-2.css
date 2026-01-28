@@ -4,21 +4,22 @@
   display: flex;
   flex-direction: column;
   gap: 25px;
-  background-color: #d9e4ed;
+  background-color: #fffbf8;
 }
 .section-2 h1 {
   text-align: center;
   font-family: Impact;
   font-weight: 100;
   font-size: 35px;
-  color: #354575;
+  color: black;
 }
 .section-2 h2 {
   margin-bottom: 10px;
   font-family: Impact;
   font-weight: 100;
   font-size: 20px;
-  color: #354575;
+  color: black;
+  border-bottom: 3px solid #d97b66;
 }
 .section-2,
 p,

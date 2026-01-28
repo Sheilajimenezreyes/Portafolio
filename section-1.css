@@ -6,12 +6,13 @@
   align-items: center;
   gap: 12px;
   padding: 30px;
-  background-color: #b5c4d2;
+  background-color: #ffeee4;
 }
 .section-1 .imagen-principal {
-  border: 3.5px #6d95ba solid;
-  padding: 10px;
+  border: 2px #d97b66 solid;
+  padding: 3px;
 }
+
 .contenedor-info div {
   display: flex;
   justify-content: flex-start;
@@ -60,9 +61,15 @@
   font-family: Impact;
   font-weight: 100;
   font-size: 20px;
-  color: #354575;
+  color: black;
+  border-bottom: 3px solid #d97b66;
+  
+
 }
 .contenedor-info p {
   font-family: Cambria;
   font-size: 15px;
+}
+.contenedor-info img:hover {
+  transform: scale(1.2);
 }
