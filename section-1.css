@@ -63,8 +63,6 @@
   font-size: 20px;
   color: black;
   border-bottom: 3px solid #d97b66;
-  
-
 }
 .contenedor-info p {
   font-family: Cambria;
@@ -72,4 +70,12 @@
 }
 .contenedor-info img:hover {
   transform: scale(1.2);
+}
+@media (max-width: 900px) {
+  .section-1 {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    flex-direction: column;
+  }
 }
